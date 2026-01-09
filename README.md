@@ -1,3 +1,7 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k-siwoo&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=k-siwoo&layout=compact&bg_color=60,ffffff,ffffff&title_color=000000&text_color=000000)
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/1408bg?pet-id=1" width="1000" height="120"/>
+</a>
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/k-siwoo?pet-id=1" width="1000" height="120"/>
+</a>
